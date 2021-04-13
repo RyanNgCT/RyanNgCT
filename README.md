@@ -2,10 +2,12 @@
 
 
 I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤️ teaching tech 💻.
+
 -  I’m currently working on Coding an AI to write my reports...
 
 - 🌱 I’m currently learning 
     - Blue Teaming (DFIR, Malware Analysis, Reverse Engineering)
+    - Binary Exploitation (Pwn)
     - Natural Language Processing 
     
 - 🤝 I’m looking to collaborate on Deep Learning Projects
@@ -19,4 +21,13 @@ I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤�
 - 😄 Pronouns: he/him
 
 - 🎼 Fun fact: I would love to learn orchestral conducting one day if I get bored of tech
+
+- 📒 You can find writeups for various CTF challenges I made:
+   - [CTF Learn](https://github.com/RyanNgCT/CTFLearn)
+   - [RangeForce Community](https://github.com/RyanNgCT/Rangeforce-Community)
+   - Blue Team Labs Online (upcoming)
+   - Metaspike (upcoming)
+   - Div0 Community x Pentester Academy (upcoming)
+   - [SINCON Wonderland 2020](https://github.com/RyanNgCT/wonderland-ctf)
+   - [Jersey 2021 (4th Student Cat; 16th Overall)](https://github.com/RyanNgCT/JerseyCTF-Writeups)
 
