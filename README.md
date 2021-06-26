@@ -24,12 +24,11 @@ I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤�
 
 - 📒 You can find writeups for various CTF challenges I made:
    - [CTF Learn](https://github.com/RyanNgCT/CTFLearn)
-   - [RangeForce Community](https://github.com/RyanNgCT/Rangeforce-Community)
-   - Blue Team Labs Online (coming soon due to sanctions on challenges)
-   - Metaspike (upcoming)
+   - [Metaspike (to be updated)](https://github.com/RyanNgCT/Metaspike-CTF)
    - Div0 Community x Pentester Academy (coming soon)
    - [SINCON Wonderland 2020](https://github.com/RyanNgCT/wonderland-ctf)
    - [Jersey 2021 (4th Student Cat; 16th Overall)](https://github.com/RyanNgCT/JerseyCTF-Writeups)
-   - RangeForce SOC Challenge 2021 (coming soon due to sanctions on challenges)
+   - [Volatility Challenges for CYSummit CTF and CDDC '21](https://github.com/RyanNgCT/Volatility-Challs)
+   - RangeForce Community, RangeForce SOC Challenge 2021 and Blue Team Labs Online Writeups (cannot be revealed publicly due to sanctions on challenges, please email me if you are a recruiter and wish to see my work!)
 
-- 👷‍♂ I also made a CTF Writeup Template [here](https://github.com/RyanNgCT/CTF-Writeup-Template)
+- 👷‍♂ I also made a CTF Writeup Template [here](https://github.com/RyanNgCT/CTF-Writeup-Template)!
