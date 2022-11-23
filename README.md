@@ -6,16 +6,14 @@ I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤�
 
 - 🌱 I’m currently learning 
     - Blue Teaming (DFIR, Malware Analysis, Reverse Engineering)
-    - Binary Exploitation (Pwn)
+    - Web Development and Vulnerabilities
     - Ethics of Technology
 
-- 🤔 I often ask myself what tasks or Security Methodologies I can automate with Machine Learning
+- 🤔 I often ask myself what everyday tasks or security methodologies I can automate using Machine Learning techniques.
 
-- 🏆 I'm a Community Moderator at [Dataquest.io](https://community.dataquest.io/u/masterryan.prof/summary)
+- 🏆 I served as a Community Moderator at [Dataquest.io](https://community.dataquest.io/u/masterryan.prof/summary) from 2021-2022.
 
 - 😄 Pronouns: he/him
-
-- 🎼 Fun fact: I would love to learn orchestral conducting one day if I get bored of tech
 
 - 📒 You can find writeups for various CTF challenges I made:
    - [CTF Learn](https://github.com/RyanNgCT/CTFLearn)
