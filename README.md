@@ -11,7 +11,7 @@ I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤�
 
 - 🤔 I often ask myself what everyday tasks or security methodologies I can automate using Machine Learning techniques.
 
-- 🏆 I served as a Community Moderator at [Dataquest.io](https://community.dataquest.io/u/masterryan.prof/summary) from 2021-2022 and continue volunteering as a Community Moderator on the platform
+- 🏆 I served as a Community Moderator at [Dataquest.io](https://community.dataquest.io/u/masterryan.prof/summary) from 2021-2022 and continue volunteering as a Learning Assistant on the platform
 
 - 😄 Pronouns: he/him
 
