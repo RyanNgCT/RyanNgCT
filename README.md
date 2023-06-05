@@ -16,7 +16,7 @@ I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤�
 - 😄 Pronouns: he/him
 
 - Tools I'm currently working on:
-   - [SSScanner - VT + UrlScan.io CLI Tool](https://github.com/RyanNgCT/SSScanner)
+   - [STrAT - VT + UrlScan.io CLI Tool](https://github.com/RyanNgCT/STrAT)
 
 - 📒 You can find writeups for various CTF challenges I made:
    - [CTF Learn](https://github.com/RyanNgCT/CTFLearn)
