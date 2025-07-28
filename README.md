@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-I'm Ryan, a Cybersecurity Student 👨🏻‍🎓 and AI enthusiast 🤖. I ❤️ teaching tech 💻.
+I'm Ryan, a Cybersecurity Student 👨🏻‍🎓. I ❤️ teaching tech 💻.
 
--  I’m currently working on Coding an AI to write my reports...
+- 📝 I’m currently working automating the little things in life...
 
 - 🌱 I’m currently learning 
-    - Blue Teaming (DFIR, Malware Analysis, Reverse Engineering)
-    - Web Development and Vulnerabilities
-    - Ethics of Technology
-
-- 🤔 I often ask myself what everyday tasks or security methodologies I can automate using Machine Learning techniques.
+    - Blue Teaming (DFIR, Malware Analysis, Threat Intelligence)
+    - Operating System Internals, Binary Exploitation / Reversing
 
 - 🏆 I served as a Community Moderator at [Dataquest.io](https://community.dataquest.io/u/masterryan.prof/summary) from 2021-2022 and continue volunteering as a Learning Assistant on the platform
-
-- 😄 Pronouns: he/him
 
 - Tools I'm currently working on:
    - [STrAT - VT + UrlScan.io CLI Tool](https://github.com/RyanNgCT/STrAT)
